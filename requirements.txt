@@ -1,9 +1,5 @@
 streamlit
-sqlite3
-json
 pandas
 matplotlib
-yt_dlp
-os
-cv2
-tempfile
+yt-dlp
+opencv-python-headless
